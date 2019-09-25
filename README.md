@@ -68,6 +68,6 @@ if one side is updated, the other side should be as well.
 
 You may realize that this set up does not maintain a single source of truth. The
 trouble here is that our usual way of maintaining a "has-many" / "belongs-to"
-relationship won't work here. We'll address this is upcoming lessons, 
+relationship won't work here. We'll address this is upcoming lessons,
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-kickstarter' title='Object Oriented Kickstarter'>Object Oriented Kickstarter</a> on Learn.co and start learning to code for free.</p>
