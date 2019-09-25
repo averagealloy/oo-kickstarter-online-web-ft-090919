@@ -1,4 +1,4 @@
 class Backer
 attr_accessor :name
-attr_
+attr_reader 
 end
