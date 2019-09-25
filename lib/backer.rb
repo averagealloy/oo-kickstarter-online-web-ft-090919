@@ -1,3 +1,3 @@
 class Backer
-attr
+attr_a
 end
